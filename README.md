@@ -1,3 +1,5 @@
+Check out this link to download Cisco Packet Tracer files for Static Routing using 1 , 2 and 3 Routers respectively. 
+
 # Cisco-Packet-Tracer-Static-Routing
 Check the files to find the cisco packet tracer for static routing.
 All the configurations and connections with labels are made in the above attached files of packet tracer. 
